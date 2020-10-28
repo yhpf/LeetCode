@@ -11,5 +11,5 @@ var subtractProductAndSum = function(n) {
         sum += digits[i];
     }
     
-    return (product -= sum);
+    return (product - sum);
 };
